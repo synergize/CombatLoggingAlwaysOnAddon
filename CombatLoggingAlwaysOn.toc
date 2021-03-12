@@ -1,0 +1,8 @@
+## Interface: 90002
+
+## Title: Combat Logging Always On!
+## Notes: Always checks combat logging on initial login and enables if it's disabled. 
+## Author: Von
+## Dependencies:
+CombatLoggingAlwaysOn.lua
+CombatLoggingAlwaysOn.xml
